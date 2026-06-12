@@ -1,0 +1,11 @@
+# Ignore IntelliJ IDE Settings
+.idea/
+*.iml
+*.iws
+
+# Ignore Compiled Java Code and Maven Builds
+target/
+*.class
+
+# Ignore Log files
+*.log
